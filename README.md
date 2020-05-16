@@ -1,3 +1,5 @@
+# Q&Aアプリケーション フロントエンド
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +68,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## 参照
+
+[React チュートリアル：初めてのアプリを作成して安全にする](https://auth0.com/blog/jp-react-tutorial-building-and-securing-your-first-app/)
+
+[【React.js】Create-react-appで環境変数の切り替えを行う方法](https://daily-fruit.com/programing/javascript/534/)
